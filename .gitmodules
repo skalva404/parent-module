@@ -1,3 +1,0 @@
-[submodule "child-a"]
-	path = child-a
-	url = https://github.com/skalva404/child-a.git
